@@ -8,10 +8,10 @@ This is the dataset used for a research paper
 The paper addresses the problem of construct and benchmark a dataset of every daily life objects used by visually-impaired people.  
 
 <table>
-    <row>
-<img src="frrcnn_detect_basket.png">
-<img src="frrcnn_detect_bag2.png">
-    </row>
+    <tr>
+        <td> <img src="frrcnn_detect_basket.png"> </td>
+        <td> <img src="frrcnn_detect_bag2.png"> </td>
+    </tr>
 </table>
 
 We provide:  
