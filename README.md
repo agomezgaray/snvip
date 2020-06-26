@@ -1,9 +1,9 @@
 # SNVIP Dataset
-Synthetic  Dataset  of  Objects  Commonly  Used  by Visually-Impaired People in their Everyday Life
+Synthetic  Dataset  of  Objects  Commonly  Used  by Visually-Impaired People in their Everyday Life  
 This is the dataset used for a research paper
 
-#    
-#Alejandro Gomez-Garay, Bogdan Raducanu, Joaquín Salas  
+    
+[//]: # Alejandro Gomez-Garay, Bogdan Raducanu, Joaquín Salas  
 
 The paper addresses the problem of construct and benchmark a dataset of every daily life objects used by visually-impaired people.  
 
