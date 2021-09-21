@@ -54,8 +54,8 @@ def download_files(id):
     filename = "{}".format(id)
     filename = filename + ".tar.gz"
     full_url = os.path.join(start_url, filename)
-    #wget.download(full_url, out=args.output_dir)
-    print(full_url)
+    wget.download(full_url, out=args.output_dir)
+    #print(full_url)
 
 #download_files(fls_ids[0])
 with concurrent.futures.ThreadPoolExecutor() as executor:
