@@ -1,6 +1,7 @@
 Trained models for SNVIP
 
     SSD ResNet-50 FPN  
+    EfficientDet D0
     Faster R-CNN Inception v2  
     Faster R-CNN ResNet-50  
     SSD Inception v2  
@@ -11,6 +12,10 @@ SSD ResNet-50 FPN, unique version:
 model.ckpt-70328.data-00000-of-00001 , 1.3 GB [get file](https://drive.google.com/file/)  
 model.ckpt-70328.index , 50 MB [get file](https://drive.google.com/file/)  
 model.ckpt-70328.meta , 20 MB [get file](https://drive.google.com/file/)  
+
+EfficientDet D0, unique version: 
+model.ckpt-96.data-00000-of-00001 , 1.3 GB [get file](https://drive.google.com/file/)  
+model.ckpt-96.index , 50 MB [get file](https://drive.google.com/file/)  
 
 
 Faster R-CNN Inception v2, unique version: 
