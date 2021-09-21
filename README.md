@@ -23,6 +23,7 @@ We provide:
     
     Four trained models on the first version of the dataset (TF format)  
         SSD ResNet-50 FPN  
+        EfficientDet D0
         Faster R-CNN Inception v2  
         Faster R-CNN ResNet-50  
         SSD Inception v2  
