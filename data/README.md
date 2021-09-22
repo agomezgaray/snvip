@@ -1,5 +1,5 @@
 # SNVIP dataset  
-This is the dataset with synthetic images from [SceneNet 2.0](https://robotvault.bitbucket.io/scenenet-rgbd.html)  
+This is the dataset with synthetic images from [SceneNet RGB-D](https://robotvault.bitbucket.io/scenenet-rgbd.html)  
 
 Files:  
 
