@@ -36,4 +36,4 @@ model.ckpt-83982.index , 50 MB [get file](https://drive.google.com/file/)
 model.ckpt-83982.meta , 20 MB [get file](https://drive.google.com/file/)  
     
 
-As a derivation from [TensorFlow Zoo's models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md), we provide these model with the [Creative Commons CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/)
+As a derivation from [TensorFlow Zoo's models](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md), we provide these model with the [GPLv3 License](http://www.gnu.org/licenses/gpl-3.0.html)
