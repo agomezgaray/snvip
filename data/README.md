@@ -9,4 +9,4 @@ construct_tf_record.py  [get file](https://drive.google.com/file/)
                    
 Note:  
 
-As a derivation from [SceneNet 2.0](https://robotvault.bitbucket.io/scenenet-rgbd.html), we provide these programs with the [Creative Commons CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/)  
+As a derivation from [SceneNet RGB-D](https://robotvault.bitbucket.io/scenenet-rgbd.html), we provide our programs with the [GPLv3 License](http://www.gnu.org/licenses/gpl-3.0.html)
