@@ -18,6 +18,7 @@ import os
 import concurrent.futures
 import argparse
 import pathlib
+import tarfile
 
 parser = argparse.ArgumentParser(description="Download SceneNet data: images, ")
 parser.add_argument(
@@ -57,8 +58,21 @@ def download_files(id):
     wget.download(full_url, out=args.output_dir)
     #print(full_url)
 
+def extract_files(id):
+    filename = "{}".format(id)
+    filename = output_dir + filename + ".tar.gz"
+    atar = tarfile.open(filename)
+    atar.extractall(output_dir) # specify which folder to extract to
+    atar.close()
+    #print(filename)
+
 #download_files(fls_ids[0])
 with concurrent.futures.ThreadPoolExecutor() as executor:
     executor.map(download_files, fls_ids)
+    
+# Extract data to output_dir
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    executor.map(extract_files, fls_ids)
+    
 
 
