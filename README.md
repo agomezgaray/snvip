@@ -32,4 +32,4 @@ We provide:
 If you find this dataset useful in your research, please cite us:  
 
 
-As a derivation from [SceneNet 2.0](https://robotvault.bitbucket.io/scenenet-rgbd.html), we provide our programs with the [Creative Commons CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/)
+As a derivation from [SceneNet RGB-D](https://robotvault.bitbucket.io/scenenet-rgbd.html), we provide our programs with the [GPLv3 License](http://www.gnu.org/licenses/gpl-3.0.html)
